@@ -1,9 +1,9 @@
-<h1>Hi, I'm Scarlett! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/scarlettval/"></h1>
+<h1>Hi, I'm Scarlett! <br/></h1>
 
-<h2>💻 Software Development Projects:</h2>
+<h2>💻 Projects:</h2>
 
-- <b>Product Design </b>
-  - [Handy Guide App - Video](https://youtu.be/VWV3CwEoXcw)
+- <b>Product Design</b>
+  - [Handy Guide App - Video Presentation](https://youtu.be/VWV3CwEoXcw)
     
 
 <!--
