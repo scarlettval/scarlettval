@@ -1,5 +1,10 @@
 <h1>Hi, I'm Scarlett! <br/></h1>
 
+<h2>Portfolio:</h2>
+
+- <b>Product Design</b>
+  - https://scarlett-valencia-portfolio.notion.site/
+
 <h2>💻 Projects:</h2>
 
 - <b>Product Design</b>
