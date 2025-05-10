@@ -9,7 +9,7 @@ https://scarlett-valencia-portfolio.notion.site/
   - [Handy Guide App - Video Presentation](https://youtu.be/VWV3CwEoXcw)
     
  - <b>Mobile App Development</b>
-    - [Progress Mobile App)(https://youtu.be/GYwcRicZ1_M)
+    - [Progress Mobile App](https://youtu.be/GYwcRicZ1_M)
  
 - <b>Virtual Reality</b>
   - [Neuro-Symbolic Tool for VR - Video Presentation](https://www.youtube.com/watch?v=cc9w_k6Fcl4)
