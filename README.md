@@ -1,7 +1,7 @@
 <h1>Hi, I'm Scarlett! <br/></h1>
 
 <h2>Portfolio:</h2>
-  - https://scarlett-valencia-portfolio.notion.site/
+https://scarlett-valencia-portfolio.notion.site/
 
 <h2>💻 Project Videos:</h2>
 
