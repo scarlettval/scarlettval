@@ -1,14 +1,16 @@
 <h1>Hi, I'm Scarlett! <br/></h1>
 
 <h2>Portfolio:</h2>
-
-- <b>Product Design</b>
   - https://scarlett-valencia-portfolio.notion.site/
 
 <h2>💻 Projects:</h2>
 
 - <b>Product Design</b>
   - [Handy Guide App - Video Presentation](https://youtu.be/VWV3CwEoXcw)
+ 
+- <b>Virtual Reality</b>
+  - [Neuro-Symbolic Tool for VR - Video Presentation](https://www.youtube.com/watch?v=cc9w_k6Fcl4)
+
     
 
 <!--
