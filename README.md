@@ -1,20 +1,22 @@
 <h1>Hi, I'm Scarlett! <br/></h1>
 
-<h2>Portfolio:</h2>
-https://scarlett-valencia-portfolio.notion.site/
+<!-- <h2>Portfolio:</h2>
+https://scarlett-valencia-portfolio.notion.site/ -->
 
 <h2>💻 Project Videos:</h2>
 
 - <b>Product Design</b>
   - [Handy Guide App - Video Presentation](https://youtu.be/VWV3CwEoXcw)
     
- - <b>Mobile App Development</b>
-   - [Progress Mobile App - Video Presentation](https://youtu.be/GYwcRicZ1_M)
+- <b>Mobile App Development</b>
+  - [Progress Mobile App - Video Presentation](https://youtu.be/GYwcRicZ1_M)
  <!--
 - <b>Virtual Reality</b>
   - [Neuro-Symbolic Tool for VR - Video Presentation](https://www.youtube.com/watch?v=cc9w_k6Fcl4)
   -->
+  
 - <b>Machine Learning</b>
+
   - [ListLens Lead Gen](https://drive.google.com/file/d/10W48Ve6nzFnGgfCDEAJeIRQgrJs7BwSx/view?usp=sharing) 
 
     
