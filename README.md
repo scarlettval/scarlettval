@@ -10,6 +10,7 @@ https://scarlett-valencia-portfolio.notion.site/ -->
     
 - <b>Mobile App Development</b>
   - [Progress Mobile App - Video Presentation](https://youtu.be/GYwcRicZ1_M)
+  - [BeFitFriends - Available on the App Store](https://apps.apple.com/us/app/befitfriends/id6766742055)
  <!--
 - <b>Virtual Reality</b>
   - [Neuro-Symbolic Tool for VR - Video Presentation](https://www.youtube.com/watch?v=cc9w_k6Fcl4)
